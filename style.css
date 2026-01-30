@@ -1,0 +1,108 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(rgb(255, 255, 255),
+     rgb(141, 194, 255)
+
+    )
+    ;
+    font-size: 30px;
+}
+header{
+    background-color: rgb(150, 185, 240);
+    padding: 20px;}
+
+h2{
+    color:rgb(24, 105, 233);
+}
+h5{
+    color:rgb(24, 105, 233);
+}
+.price{можливо дивтися!! Ціни високі як гори!! Що тільки не понапридумують заради грошей!! Що за вчений кіт який робить домашку!?!? Що за одяг для риб!? ВСЕ ЖАХЛИВО!!! ★★★★★ 5 зірок$0
+   color:rgb(24, 105, 233); 
+}
+.de{
+    color:rgb(24, 105, 233);
+}
+footer{
+    background-color: rgb(150, 204, 240);}
+    div{
+        display: flex;
+    }
+    div img{
+        margin: 30px;
+    }
+
+.catalog{
+    display: flex;
+    flex-wrap: wrap;
+}
+article{
+    width: 400px;
+    border: double  10px rgb(173, 223, 254);
+    padding: 30px;
+}
+article img{
+    height: 200px;
+}
+nav a{
+    text-decoration: none;
+    color: rgb(59, 89, 220);
+    padding: 7.5px;
+}
+nav{
+    display: flex;
+    justify-content: space-around
+}
+
+article{
+    text-align: center;
+}
+.reviews img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+a:hover{
+    color: blue;
+    background-color: rgb(135, 147, 255);
+    transition: 0.5s;
+}
+.catalog article{
+    opacity: 0.75;
+}
+.catalog article:hover{
+    opacity: 1;
+    transition: 0.25s;
+}
+.reviews{
+    display: flex;
+}
+h1{
+    color:rgb(30, 30, 192);
+    font-family:symbol;
+}
+header{
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+main{
+    margin-top: 275px;
+}
+iframe{
+    width: 100%;
+}
+a:focus{
+    opacity: 0;
+    transition: 3s;
+
+
+}
+a:focus{
+    box-shadow: 5px 5px 5px  rgb(59, 59, 255);
+
+
+}
