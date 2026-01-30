@@ -10,14 +10,13 @@ body {
 header{
     background-color: rgb(150, 185, 240);
     padding: 20px;}
-
 h2{
     color:rgb(24, 105, 233);
 }
 h5{
     color:rgb(24, 105, 233);
 }
-.price{можливо дивтися!! Ціни високі як гори!! Що тільки не понапридумують заради грошей!! Що за вчений кіт який робить домашку!?!? Що за одяг для риб!? ВСЕ ЖАХЛИВО!!! ★★★★★ 5 зірок$0
+.price{
    color:rgb(24, 105, 233); 
 }
 .de{
@@ -31,7 +30,6 @@ footer{
     div img{
         margin: 30px;
     }
-
 .catalog{
     display: flex;
     flex-wrap: wrap;
@@ -98,11 +96,5 @@ iframe{
 a:focus{
     opacity: 0;
     transition: 3s;
-
-
-}
-a:focus{
-    box-shadow: 5px 5px 5px  rgb(59, 59, 255);
-
-
+box-shadow: 5px 5px 5px  rgb(59, 59, 255);
 }
